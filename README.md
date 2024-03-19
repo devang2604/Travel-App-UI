@@ -1,15 +1,12 @@
-# travel_app
+# Travel_App_UI
 
 UI of travel app.
+![d63e76bf-b7a2-41e6-aa3f-caba84d2fae4](https://github.com/devang2604/Travel-App-UI/assets/76810941/02f772a0-d4a5-4400-a6d9-66ddd2d72d22)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application where one can book hotels and make a memorable trip.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
